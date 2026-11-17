@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Alvin</string>
+    <string name="title">Android Developer</string>
+    <string name="phone">+11 (123) 444 555 666</string>
+    <string name="social_handle">@AndroidDev</string>
+    <string name="email">alvin@example.com</string>
+    <string name="phone_description">Phone</string>
+    <string name="social_description">Social media</string>
+    <string name="email_description">Email</string>
+</resources>
